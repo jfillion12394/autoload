@@ -1,7 +1,7 @@
 <?php
 require '../vendor/autoload.php';
 
-use App\Hello;
+use App\Wcs\Hello;
 
 $hello = new Hello();
 echo $hello->talk("Joel");
