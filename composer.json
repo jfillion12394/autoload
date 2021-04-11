@@ -7,9 +7,7 @@
             "email": "jfillion12394@gmail.com"
         }
     ],
-    "require": {},
-    "autoload": {
-        "psr-4": {"App\\": "src/"}
+    "require": {
+        "ehime/hello-world": "^1.0"
+    }
 }
-}
-
